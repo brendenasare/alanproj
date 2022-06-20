@@ -1,0 +1,10 @@
+
+
+interface
+
+users: stategroup (
+	'<state name>' { }
+	'<state name>' { }
+)
+
+root
